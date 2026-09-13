@@ -1,0 +1,6 @@
+{
+  "name": "APK Guardian",
+  "description": "Analyze installed Android applications for security risks and identify fakes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
